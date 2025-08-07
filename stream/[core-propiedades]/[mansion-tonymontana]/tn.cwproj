@@ -1,0 +1,124 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>apa_yacht_grp03_2.ymap</Item>
+    <Item>ch1_02_grass_0.ymap</Item>
+    <Item>custdoor.ymap</Item>
+    <Item>customlight.ymap</Item>
+    <Item>entermansion.ymap</Item>
+    <Item>hei_bh1_rd_strm_0.ymap</Item>
+    <Item>hei_ch1_02_long_0.ymap</Item>
+    <Item>hei_ch1_02_sea_long_0.ymap</Item>
+    <Item>hei_ch1_02_sea_strm_0.ymap</Item>
+    <Item>hei_ch1_02_strm_3.ymap</Item>
+    <Item>hei_ch1_roadsb.ymap</Item>
+    <Item>hei_ch1_roadsb_critical_0.ymap</Item>
+    <Item>hei_ch1_roadsb_long_0.ymap</Item>
+    <Item>hei_ch1_roadsb_strm_0.ymap</Item>
+    <Item>interiorpropscar.ymap</Item>
+    <Item>scarface_mansion.ymap</Item>
+    <Item>scarprops.ymap</Item>
+    <Item>statup.ymap</Item>
+    <Item>testchecs.ymap</Item>
+    <Item>updatef.ymap</Item>
+    <Item>uprops.ymap</Item>
+    <Item>ztest.ymap</Item>
+    <Item>escenario\tonymontana-escenario.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>bedroomupyy.ytyp</Item>
+    <Item>bordexty.ytyp</Item>
+    <Item>cadillacy.ytyp</Item>
+    <Item>cdoory.ytyp</Item>
+    <Item>custgry.ytyp</Item>
+    <Item>custlight.ytyp</Item>
+    <Item>lightup.ytyp</Item>
+    <Item>pillonescar.ytyp</Item>
+    <Item>propsvanitytabley.ytyp</Item>
+    <Item>scarfacey.ytyp</Item>
+    <Item>scarfonty.ytyp</Item>
+    <Item>scarhidden.ytyp</Item>
+    <Item>scarpy.ytyp</Item>
+    <Item>statuswiy.ytyp</Item>
+    <Item>statuuy.ytyp</Item>
+    <Item>torturelighty.ytyp</Item>
+    <Item>updatey.ytyp</Item>
+    <Item>escenario\kg_prop_cdj3_model_details.ytyp</Item>
+    <Item>escenario\kg_prop_smallstage_model_details.ytyp</Item>
+    <Item>escenario\kg_prop_stagespeaker01_model_details.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>ch1_roadsb_5.ybn</Item>
+    <Item>hi@ch1_roadsb_3.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>bedroomup.ydr</Item>
+    <Item>billardoor.ydr</Item>
+    <Item>bordext.ydr</Item>
+    <Item>cadillac.ydr</Item>
+    <Item>custgr.ydr</Item>
+    <Item>enterdoor.ydr</Item>
+    <Item>extbbq.ydr</Item>
+    <Item>extmale.ydr</Item>
+    <Item>officeddoor.ydr</Item>
+    <Item>officegdoor.ydr</Item>
+    <Item>pillonescar.ydr</Item>
+    <Item>propsvanitytable.ydr</Item>
+    <Item>prop_lrggate_01_pst.ydr</Item>
+    <Item>scarcoffre.ydr</Item>
+    <Item>scarfacehiddendoor.ydr</Item>
+    <Item>scarface_custom_light.ydr</Item>
+    <Item>scarface_custom_light2.ydr</Item>
+    <Item>scarface_custom_light3.ydr</Item>
+    <Item>scarface_tibord.ydr</Item>
+    <Item>scarface_tiground.ydr</Item>
+    <Item>scarface_tmbprops.ydr</Item>
+    <Item>scarface_tmdetail.ydr</Item>
+    <Item>scarface_tmdetailb.ydr</Item>
+    <Item>scarface_tmdetailc.ydr</Item>
+    <Item>scarface_tmedetaila.ydr</Item>
+    <Item>scarface_tmedetailb.ydr</Item>
+    <Item>scarface_tmedetailc.ydr</Item>
+    <Item>scarface_tmedetaild.ydr</Item>
+    <Item>scarface_tmeground.ydr</Item>
+    <Item>scarface_tmenter.ydr</Item>
+    <Item>scarface_tmenters.ydr</Item>
+    <Item>scarface_tmeshel.ydr</Item>
+    <Item>scarface_tmpillard.ydr</Item>
+    <Item>scarface_tmprops.ydr</Item>
+    <Item>scarface_tmpropsb.ydr</Item>
+    <Item>scarface_tmramb.ydr</Item>
+    <Item>scarface_tmramba.ydr</Item>
+    <Item>scarface_tmsdetaila.ydr</Item>
+    <Item>scarface_tmsdetailb.ydr</Item>
+    <Item>scarface_tmsdetailc.ydr</Item>
+    <Item>scarface_tmshell.ydr</Item>
+    <Item>scarface_tmspa.ydr</Item>
+    <Item>scarface_tmsshell.ydr</Item>
+    <Item>scarfont.ydr</Item>
+    <Item>scarlsp.ydr</Item>
+    <Item>scarwater.ydr</Item>
+    <Item>scar_piano.ydr</Item>
+    <Item>statusfemel.ydr</Item>
+    <Item>statusworldisyours.ydr</Item>
+    <Item>torturelight.ydr</Item>
+    <Item>update4p.ydr</Item>
+    <Item>updateprops.ydr</Item>
+    <Item>updateprops2.ydr</Item>
+    <Item>updateprops3.ydr</Item>
+    <Item>escenario\kg_prop_cdj3_model.ydr</Item>
+    <Item>escenario\kg_prop_smallstage_model.ydr</Item>
+    <Item>escenario\kg_prop_stagespeaker01_model.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>scarface_txd.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
