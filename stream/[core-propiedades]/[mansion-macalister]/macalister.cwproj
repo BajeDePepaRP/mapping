@@ -1,0 +1,102 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>cosanostra-escenario.ymap</Item>
+    <Item>wolvesfarm_shell.ymap</Item>
+    <Item>wolvesmap.ymap</Item>
+    <Item>wolves_shell.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>wolvesfarm_shell.ytyp</Item>
+    <Item>wolves_ct.ytyp</Item>
+    <Item>wolves_shell.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>wolvesfarm_coll.ybn</Item>
+    <Item>wolves_coll.ybn</Item>
+    <Item>wolves_estrutura.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>detail_wolves.ydr</Item>
+    <Item>wolvesdoor.ydr</Item>
+    <Item>wolvesfarm_shell.ydr</Item>
+    <Item>wolves_areia1.ydr</Item>
+    <Item>wolves_areia2.ydr</Item>
+    <Item>wolves_bar.ydr</Item>
+    <Item>wolves_barraca1.ydr</Item>
+    <Item>wolves_barraca2.ydr</Item>
+    <Item>wolves_box.ydr</Item>
+    <Item>wolves_cama.ydr</Item>
+    <Item>wolves_changer.ydr</Item>
+    <Item>wolves_dj.ydr</Item>
+    <Item>wolves_dj2.ydr</Item>
+    <Item>wolves_door1.ydr</Item>
+    <Item>wolves_door2.ydr</Item>
+    <Item>wolves_entrace.ydr</Item>
+    <Item>wolves_escada.ydr</Item>
+    <Item>wolves_estante.ydr</Item>
+    <Item>wolves_estante2.ydr</Item>
+    <Item>wolves_estrutura.ydr</Item>
+    <Item>wolves_exterior.ydr</Item>
+    <Item>wolves_farm.ydr</Item>
+    <Item>wolves_garden.ydr</Item>
+    <Item>wolves_gym1.ydr</Item>
+    <Item>wolves_gym2.ydr</Item>
+    <Item>wolves_gym3.ydr</Item>
+    <Item>wolves_gym4.ydr</Item>
+    <Item>wolves_gym5.ydr</Item>
+    <Item>wolves_gym6.ydr</Item>
+    <Item>wolves_kitchen.ydr</Item>
+    <Item>wolves_light1.ydr</Item>
+    <Item>wolves_light2.ydr</Item>
+    <Item>wolves_light3.ydr</Item>
+    <Item>wolves_light4.ydr</Item>
+    <Item>wolves_mesa1.ydr</Item>
+    <Item>wolves_mesa2.ydr</Item>
+    <Item>wolves_pergola1.ydr</Item>
+    <Item>wolves_pergola2.ydr</Item>
+    <Item>wolves_piano.ydr</Item>
+    <Item>wolves_pier.ydr</Item>
+    <Item>wolves_pillar.ydr</Item>
+    <Item>wolves_pista.ydr</Item>
+    <Item>wolves_placa.ydr</Item>
+    <Item>wolves_png.ydr</Item>
+    <Item>wolves_puff.ydr</Item>
+    <Item>wolves_quadra.ydr</Item>
+    <Item>wolves_reuniao.ydr</Item>
+    <Item>wolves_room.ydr</Item>
+    <Item>wolves_salva.ydr</Item>
+    <Item>wolves_sangue.ydr</Item>
+    <Item>wolves_shell.ydr</Item>
+    <Item>wolves_sinuca.ydr</Item>
+    <Item>wolves_sofa1.ydr</Item>
+    <Item>wolves_sofa2.ydr</Item>
+    <Item>wolves_sofa3.ydr</Item>
+    <Item>wolves_t1.ydr</Item>
+    <Item>wolves_t10.ydr</Item>
+    <Item>wolves_t11.ydr</Item>
+    <Item>wolves_t12.ydr</Item>
+    <Item>wolves_t2.ydr</Item>
+    <Item>wolves_t3.ydr</Item>
+    <Item>wolves_t4.ydr</Item>
+    <Item>wolves_t5.ydr</Item>
+    <Item>wolves_t6.ydr</Item>
+    <Item>wolves_t7.ydr</Item>
+    <Item>wolves_t8.ydr</Item>
+    <Item>wolves_t9.ydr</Item>
+    <Item>wolves_table.ydr</Item>
+    <Item>wolves_tapete.ydr</Item>
+    <Item>wolves_wood.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>wolves_ct.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
