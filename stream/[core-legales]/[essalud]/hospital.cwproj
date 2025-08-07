@@ -1,0 +1,389 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ymap\amx_ocean_hospital.ymap</Item>
+    <Item>ymap\apa_distlodlights_medium013.ymap</Item>
+    <Item>ymap\apa_distlodlights_small026.ymap</Item>
+    <Item>ymap\bh1_occl_03.ymap</Item>
+    <Item>ymap\bm_middoc_milo_.ymap</Item>
+    <Item>ymap\cs1_occl_13.ymap</Item>
+    <Item>ymap\distlodlights_medium013.ymap</Item>
+    <Item>ymap\distlodlights_small026.ymap</Item>
+    <Item>ymap\dt1_occl_06.ymap</Item>
+    <Item>ymap\exthostols.ymap</Item>
+    <Item>ymap\h4_islandx_mansion.ymap</Item>
+    <Item>ymap\h4_islandx_mansion_props.ymap</Item>
+    <Item>ymap\h4_mansion_gate_broken.ymap</Item>
+    <Item>ymap\h4_mansion_gate_closed.ymap</Item>
+    <Item>ymap\hei_bh1_40_strm_0.ymap</Item>
+    <Item>ymap\hei_cs1_13.ymap</Item>
+    <Item>ymap\hei_cs1_13_long_18.ymap</Item>
+    <Item>ymap\hei_cs1_13_strm_5.ymap</Item>
+    <Item>ymap\hei_cs1_13_strm_6.ymap</Item>
+    <Item>ymap\hei_cs1_13_strm_7.ymap</Item>
+    <Item>ymap\hei_dt1_occl_06.ymap</Item>
+    <Item>ymap\hei_kt1_rd_long_1.ymap</Item>
+    <Item>ymap\hei_sm_01.ymap</Item>
+    <Item>ymap\hei_sm_01_critical_0.ymap</Item>
+    <Item>ymap\hei_sm_01_strm_0.ymap</Item>
+    <Item>ymap\hei_sm_occl_01.ymap</Item>
+    <Item>ymap\hei_sm_rd_long_0.ymap</Item>
+    <Item>ymap\hei_sm_rd_strm_0.ymap</Item>
+    <Item>ymap\hei_vb_03.ymap</Item>
+    <Item>ymap\hei_vb_03_strm_0.ymap</Item>
+    <Item>ymap\hei_vb_04.ymap</Item>
+    <Item>ymap\hei_vb_04_strm_0.ymap</Item>
+    <Item>ymap\hei_vb_rd_strm_0.ymap</Item>
+    <Item>ymap\kt1_occl_00.ymap</Item>
+    <Item>ymap\logosessalud.ymap</Item>
+    <Item>ymap\lr_sc1_34_strm_0.ymap</Item>
+    <Item>ymap\lr_sc1_occl_00.ymap</Item>
+    <Item>ymap\mural1_hospital_1.ymap</Item>
+    <Item>ymap\mx_ocean_garage.ymap</Item>
+    <Item>ymap\mx_ocean_hospital_map.ymap</Item>
+    <Item>ymap\mx_ocean_shell_map_mlo.ymap</Item>
+    <Item>ymap\ocean_amenagement_ext.ymap</Item>
+    <Item>ymap\ocean_chiurgie1.ymap</Item>
+    <Item>ymap\pool_lights_set_15.ymap</Item>
+    <Item>ymap\sm_01.ymap</Item>
+    <Item>ymap\sm_01_strm_0.ymap</Item>
+    <Item>ymap\sm_occl_01.ymap</Item>
+    <Item>ymap\sm_rd.ymap</Item>
+    <Item>ymap\vb_03_strm_0.ymap</Item>
+    <Item>ymap\vb_occl_01.ymap</Item>
+    <Item>ymap\xocean_escalier_1.ymap</Item>
+    <Item>ymap\xocean_escalier_2.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>amx_ocean_hospital.ytyp</Item>
+    <Item>bm_middoc.ytyp</Item>
+    <Item>car_3d.ytyp</Item>
+    <Item>logo.ytyp</Item>
+    <Item>logoessa_3d.ytyp</Item>
+    <Item>mural1_hospital.ytyp</Item>
+    <Item>mx_ocean_hospital_garage_typ.ytyp</Item>
+    <Item>mx_ocean_hospital_props.ytyp</Item>
+    <Item>mx_ocean_hospital_shell_typ.ytyp</Item>
+    <Item>mx_ocean_hospital_typ.ytyp</Item>
+    <Item>ocean_chiurgie.ytyp</Item>
+    <Item>xocean_escalier1.ytyp</Item>
+    <Item>xocean_escalier2.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>amx_plus8.ybn</Item>
+    <Item>bm_middoc_col.ybn</Item>
+    <Item>hi@sm_01_0.ybn</Item>
+    <Item>hism_01_0.ybn</Item>
+    <Item>sm_01_0.ybn</Item>
+    <Item>sm_ocean_hospital.ybn</Item>
+    <Item>sm_rd_1.ybn</Item>
+    <Item>v_garageo.ybn</Item>
+    <Item>v_oceanml.ybn</Item>
+    <Item>v_oceanml2.ybn</Item>
+    <Item>xocean_details_escalier1_shell_coli.ybn</Item>
+    <Item>xocean_details_escalier2_shell_coli.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>ydr - ytd\amx_ocean_plus_drooframe.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_elev.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r1.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r2.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r2_1.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r3.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r3glass.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r3_1.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r3_2.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r4.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r4glass.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r4_1.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_r4_2.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_shell.ydr</Item>
+    <Item>ydr - ytd\amx_ocean_plus_shelltuyau.ydr</Item>
+    <Item>ydr - ytd\bkr_ware03_bin.ydr</Item>
+    <Item>ydr - ytd\bm_middoc_shell.ydr</Item>
+    <Item>ydr - ytd\car.ydr</Item>
+    <Item>ydr - ytd\cs1_13_emissive.ydr</Item>
+    <Item>ydr - ytd\curtain1_support.ydr</Item>
+    <Item>ydr - ytd\dge_dance_drum.ydr</Item>
+    <Item>ydr - ytd\dge_wz_table.ydr</Item>
+    <Item>ydr - ytd\doorsb.ydr</Item>
+    <Item>ydr - ytd\drap1_lit_hospital.ydr</Item>
+    <Item>ydr - ytd\drap2_lit_hospital.ydr</Item>
+    <Item>ydr - ytd\drap3_lit_hospital.ydr</Item>
+    <Item>ydr - ytd\equipment1_hospital.ydr</Item>
+    <Item>ydr - ytd\equipment2_hospital.ydr</Item>
+    <Item>ydr - ytd\ex_office2a_sofa01.ydr</Item>
+    <Item>ydr - ytd\ex_office_03b_stripchair1.ydr</Item>
+    <Item>ydr - ytd\fridge_sb_l.ydr</Item>
+    <Item>ydr - ytd\fridge_sb_r.ydr</Item>
+    <Item>ydr - ytd\garagdoor2.ydr</Item>
+    <Item>ydr - ytd\hw1_rd_stars4.ydr</Item>
+    <Item>ydr - ytd\lit1_hospital.ydr</Item>
+    <Item>ydr - ytd\logo.ydr</Item>
+    <Item>ydr - ytd\logoessa.ydr</Item>
+    <Item>ydr - ytd\mirorbox.ydr</Item>
+    <Item>ydr - ytd\mural1_hospital.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props1.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props10.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props11.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props12.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props13.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props14.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props15.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props16.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props17.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props18.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props2.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props3.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props4.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props5.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props6.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props7.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props8.ydr</Item>
+    <Item>ydr - ytd\mx_bloc_operatoire__props9.ydr</Item>
+    <Item>ydr - ytd\mx_lamp_room1.ydr</Item>
+    <Item>ydr - ytd\mx_lits_medecin.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_aera_lamp_r1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_cadreframe.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_cadre_porte_entree.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_door1a.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_door1b.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_door2a.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_door2b.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe10.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe11.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe5.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe6.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe7.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe8.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_doorframe9.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_elevator.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_elevator2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_elevatorcadres.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_elevatorcadres2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_10.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_5.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_6.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_7.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_8.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_9.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_datails1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_decal_vitres.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_emissive_vitres.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_glass1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_glass_lod.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_mps.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_ramp2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_rembardes1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell10.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell11.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell12.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell13.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell14.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell22.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell23.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell24.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell25.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell26.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell5.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell6.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell7.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell8.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell9.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shellaccesoires1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_stair1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_stair2_hight.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_stair3_hight.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_tuyaux1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_modernchairs.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_bloc1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_bloc2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_entree1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_entree2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_entree3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_entree4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_entree5.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_solo1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_porte_solo2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_roof.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_roof2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room10_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room11_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room12_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room12_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room13_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room14_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room14_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room14_mirrors.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room18_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room18_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room18_details3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room18_shell.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_details3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_details4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_glass.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_screen.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room19_shell.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room1_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room22_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room23_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room23_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room23_door.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room23_mirrors.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room24_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room25_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room25_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room25_glass.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room26_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details0.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details3_1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room2_details5.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room3_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room4_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room4_glass.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details1.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details4.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details5.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room5_details6.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room6_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room7_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room8_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room8_glass.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room9_details.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room9_details2.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room9_details3.ydr</Item>
+    <Item>ydr - ytd\mx_ocean_room9_glass.ydr</Item>
+    <Item>ydr - ytd\mx_operatoires_separation.ydr</Item>
+    <Item>ydr - ytd\ocean_door_garage_dooframe.ydr</Item>
+    <Item>ydr - ytd\ocean_door_garage_high.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_decal.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_decal1.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_decal2.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_detail.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_detail2.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_detail3.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_detail4.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_door.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_light.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_numeros.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_poutres.ydr</Item>
+    <Item>ydr - ytd\ocean_garage_shell.ydr</Item>
+    <Item>ydr - ytd\potence1_hospital.ydr</Item>
+    <Item>ydr - ytd\potence2_hospital.ydr</Item>
+    <Item>ydr - ytd\potence3_hospital.ydr</Item>
+    <Item>ydr - ytd\prop_civiere_01.ydr</Item>
+    <Item>ydr - ytd\sm_01_emissive_sm_01.ydr</Item>
+    <Item>ydr - ytd\sm_01_emissive_sm_01b.ydr</Item>
+    <Item>ydr - ytd\sm_01_ground.ydr</Item>
+    <Item>ydr - ytd\sm_01_ground2.ydr</Item>
+    <Item>ydr - ytd\sm_01_ground_decal001.ydr</Item>
+    <Item>ydr - ytd\sm_01_ground_decal6.ydr</Item>
+    <Item>ydr - ytd\sm_01_tower1.ydr</Item>
+    <Item>ydr - ytd\sm_01_tower2.ydr</Item>
+    <Item>ydr - ytd\sm_01_tower_base.ydr</Item>
+    <Item>ydr - ytd\sm_rd_01_r1f.ydr</Item>
+    <Item>ydr - ytd\stryker_fix2.ydr</Item>
+    <Item>ydr - ytd\toiletteocean.ydr</Item>
+    <Item>ydr - ytd\toiletteocean1.ydr</Item>
+    <Item>ydr - ytd\v_2_atsm_mesh_delta.ydr</Item>
+    <Item>ydr - ytd\v_2_shadowmap3.ydr</Item>
+    <Item>ydr - ytd\v_2_tomd_mesh_delta.ydr</Item>
+    <Item>ydr - ytd\v_2_tpoff_shell.ydr</Item>
+    <Item>ydr - ytd\v_ilev_garageliftdoor2.ydr</Item>
+    <Item>ydr - ytd\xocean_bordure_porte_escalier1.ydr</Item>
+    <Item>ydr - ytd\xocean_bordure_porte_escalier2.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier1.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier1door.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier1_1.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier1_shell.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier2.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier2door.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier2_2.ydr</Item>
+    <Item>ydr - ytd\xocean_details_escalier2_shell.ydr</Item>
+    <Item>ydr - ytd\xocean_escalier_light1.ydr</Item>
+    <Item>ydr - ytd\xocean_escalier_light2.ydr</Item>
+    <Item>ydr - ytd\xocean_garde_fou_escalier1.ydr</Item>
+    <Item>ydr - ytd\xocean_garde_fou_escalier2.ydr</Item>
+    <Item>ydr - ytd\xocean_marches_escalier1.ydr</Item>
+    <Item>ydr - ytd\xocean_marches_escalier2.ydr</Item>
+    <Item>ydr - ytd\xocean_tuyau_incendie1.ydr</Item>
+    <Item>ydr - ytd\xocean_tuyau_incendie2.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>sm_01_emissive_slod_children.ydd</Item>
+    <Item>sm_01_sm1_slod1_children.ydd</Item>
+    <Item>sm_lod_emissive_01_06_26_children.ydd</Item>
+    <Item>sm_lod_slod2_01_06_26_children.ydd</Item>
+    <Item>sm_props_combo54_slod_children.ydd</Item>
+    <Item>vb_03_bld2_e_slod_children.ydd</Item>
+    <Item>vb_03_vb_emissive_slod_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames>
+    <Item>ydr - ytd\curtain1_hospital.yft</Item>
+    <Item>ydr - ytd\curtain1_hospitalx.yft</Item>
+    <Item>ydr - ytd\curtain2_hospital.yft</Item>
+    <Item>ydr - ytd\curtain2_hospitalx.yft</Item>
+    <Item>ydr - ytd\stryker_fix.yft</Item>
+  </YftFilenames>
+  <YtdFilenames>
+    <Item>ydr - ytd\curtain_hospital.ytd</Item>
+    <Item>ydr - ytd\logo.ytd</Item>
+    <Item>ydr - ytd\medical_accessoires+hi.ytd</Item>
+    <Item>ydr - ytd\medical_accessoires.ytd</Item>
+    <Item>ydr - ytd\medical_screen+hi.ytd</Item>
+    <Item>ydr - ytd\medical_screen.ytd</Item>
+    <Item>ydr - ytd\mx_lampe_r1+hi.ytd</Item>
+    <Item>ydr - ytd\mx_lampe_r1.ytd</Item>
+    <Item>ydr - ytd\mx_oceanextlogo+hi.ytd</Item>
+    <Item>ydr - ytd\mx_oceanextlogo.ytd</Item>
+    <Item>ydr - ytd\mx_oceangarage+hi.ytd</Item>
+    <Item>ydr - ytd\mx_oceangarage.ytd</Item>
+    <Item>ydr - ytd\mx_oceantexture+hi.ytd</Item>
+    <Item>ydr - ytd\mx_oceantexture.ytd</Item>
+    <Item>ydr - ytd\mx_oceantexture1.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_bed+hi.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_bed.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_details+hi.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_details.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_door+hi.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_door.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_escalier+hi.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_escalier.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_lod.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell_1+hi.ytd</Item>
+    <Item>ydr - ytd\mx_ocean_hospital_shell_1.ytd</Item>
+    <Item>ydr - ytd\mx_pharmacy_med.ytd</Item>
+    <Item>ydr - ytd\sm_01_lod.ytd</Item>
+    <Item>ydr - ytd\stryker_fix+hi.ytd</Item>
+    <Item>ydr - ytd\stryker_fix.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
