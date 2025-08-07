@@ -1,0 +1,25 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_ch3_11.ymap</Item>
+    <Item>hei_ch3_11_critical_0.ymap</Item>
+    <Item>hei_ch3_11_long_0.ymap</Item>
+    <Item>hei_ch3_11_strm_3.ymap</Item>
+    <Item>hei_ch3_13_long_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames>
+    <Item>ch3_11_18.ybn</Item>
+    <Item>hi@ch3_11_10.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
